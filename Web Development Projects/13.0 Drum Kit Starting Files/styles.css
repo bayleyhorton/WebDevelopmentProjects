@@ -1,0 +1,87 @@
+body {
+  text-align: center;
+  background-color: #2A2B2A;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #2A2B2A ;
+  font-family: "Sixtyfour", sans-serif;
+  text-shadow: 3px 0 #996888;
+  -webkit-text-stroke-width: 1px ;
+  -webkit-text-stroke-color: #C6DDF0;
+
+}
+
+
+
+footer {
+  color: #C6DDF0;
+  font-family: sans-serif;
+}
+
+.w {
+background-image: url("images/tom1.png");
+}
+
+.a {
+  background-image: url("images/tom2.png");
+  }
+
+.s {
+  background-image: url("images/tom3.png");
+}
+
+.d {
+  background-image: url("images/tom4.png");
+}
+
+.j {
+  background-image: url("images/snare.png");
+}
+
+.k {
+  background-image: url("images/crash.png");
+}
+
+.l {
+  background-image: url("images/kick.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: #A20021;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #C6DDF0;
+  opacity: 0.5;
+}
+
+.red {
+  color: #A20021;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #5E4955;
+  font-size: 5rem;
+  font-family: "Germania One", system-ui;
+  line-height: 2;
+  font-weight: 900;
+  color: #996888;
+  text-shadow: 3px 0 #C6DDF0;
+  -webkit-text-stroke-width: .5px ;
+  -webkit-text-stroke-color: #2A2B2A;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
